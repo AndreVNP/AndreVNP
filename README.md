@@ -1,16 +1,19 @@
-### Hi there 👋
+### Saudações 👋
 
 <!--
 **AndreVNP/AndreVNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on https://jornaldeofertas.web.app
+- 🌱 I’m currently learning Flutter, Swift & Cybersecurity
+- 🤔 I’m looking for help with find a Job!
+- 💬 Ask me about Ionic, Firebase & PWA
+- 📫 How to reach me: andre.vnp@live.com | +55 71 98535-1316
+
+<!-- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Jobs!
 -->
